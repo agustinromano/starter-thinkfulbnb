@@ -158,6 +158,11 @@ footer p {
     gap: 10px;
   }
 
+  label {
+    display: grid;
+    padding: 5px;
+  }
+
   form button {
     width: 25%;
   }
